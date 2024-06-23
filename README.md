@@ -6,4 +6,4 @@
   
     https://saleor.io/
 
-https://github.com/tiangolo/full-stack-fastapi-template
+    https://github.com/tiangolo/full-stack-fastapi-template
